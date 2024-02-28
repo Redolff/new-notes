@@ -11,7 +11,7 @@ const Logo = () => {
                 width={70}
                 height={70}
             />
-            <h1>Next notes</h1>
+            <h2>Next notes</h2>
         </div>
     )
 }
