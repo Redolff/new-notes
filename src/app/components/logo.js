@@ -4,7 +4,7 @@ import '../style/navbar.css'
 
 const Logo = () => {
     return (
-        <div className="logo-title">
+        <div className="my-logo-title">
             <Image
                 alt="logo"
                 src={notas}

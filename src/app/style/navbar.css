@@ -1,4 +1,4 @@
-.nav-bar {
+.my-nav-bar {
     display: flex;
     background-color: aliceblue;
     width: 100%;
@@ -6,13 +6,13 @@
     box-shadow: 1px 5px 5px rgb(0, 0, 0, 0.3);
 }
 
-.logo-title {
+.my-logo-title {
     display: flex;
-    width: 250px;
+    width: 280px;
     box-shadow: 1px 5px 5px rgb(0, 0, 0, 0.3);
 }
 
-.form-input {
+.my-form-input {
     width: 600px;
     height: 100%;
     display: flex;
@@ -21,17 +21,17 @@
     box-shadow: 1px 5px 5px rgb(0, 0, 0, 0.3);
 }
 
-.form-search {
+.my-form-search {
     height: 40px;
     width: 100%;
 }
 
-.form-search input{
+.my-form-search input{
     width: 90%;
     height: 90%;
 }
 
-.icono-not{
+.my-icono-not{
     display: flex;
     align-items: center;
     box-shadow: 1px 5px 5px rgb(0, 0, 0, 0.3);
@@ -59,25 +59,15 @@
     align-items: center;
 }
 
-/* Estilo básico para el menú desplegable */
-.dropdown-menu {
-    height: 38px;
-    background-color: #fff;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    border: 1px solid #ddd;
-}
-
-
 /* Estilo para el botón de cerrar sesión dentro del menú desplegable */
-.dropdown-menu button {
+.my-dropdown-menu button {
     cursor: pointer;
-    padding: 5px 10px;
     background-color: #007bff;
     color: #fff;
-    border: none;
+    border: none;   
     border-radius: 3px;
 }
 
-.arrow{
+.my-arrow{
     margin-left: 5px;
 }

@@ -4,7 +4,7 @@ const Menu = () => {
     return (
         <div className="menu">
             <div className='features'>
-                <button> Add new feature </button>
+                <button type='button' className='btn btn-primary btn-lg'> Add new feature </button>
                 <li>Task</li>
                 <li>Notes</li>
                 <li>Reminder</li>
