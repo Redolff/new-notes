@@ -1,5 +1,5 @@
 .menu {
-    width: 249px;
+    width: 25%;
     height: 480px;
     padding-top: 30px;
     box-shadow: 1px 5px 5px rgb(0, 0, 0, 0.3);
@@ -15,6 +15,7 @@
 
 .features li {
     margin: 10px 0;
+    cursor: pointer;
 }
 
 .settings {
